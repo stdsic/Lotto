@@ -28,6 +28,8 @@ Windows 10 이상<br>
 - stdsic — @https://github.com/stdsic/Lotto<br>
 <br><br>
 ## 📚 Version History<br>
+- 1.0.1<br>
+  - 메타 데이터 수정
 - 1.0.0<br>
   - 최초 릴리스<br>
 <br><br>
