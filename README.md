@@ -14,7 +14,7 @@ Windows Legacy API와 GDI를 이용한 2D 그래픽의 로또 추첨기입니다
 Windows 10 이상<br>
 <br>
 ### 📥 Installing<br>
-[Releases](https://github.com/stdFrog/Lotto/releases) 페이지에서 최신 버전을 확인하실 수 있습니다.<br>
+[Releases](https://github.com/stdsic/Lotto/releases) 페이지에서 최신 버전을 확인하실 수 있습니다.<br>
 압축 해제 후 `Lotto.exe` 또는 `LottoInstaller.exe`를 실행합니다.<br>
 설치 파일(LottoInstaller.exe)을 다운로드한 경우 안내에 따라 안전하게 실행 파일(Lotto.exe)을 설치하시면 됩니다.<br>
 <br>
